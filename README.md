@@ -1,2 +1,2 @@
-#Bookstore Api
+#Bookstore
 This is a bookstore Api
